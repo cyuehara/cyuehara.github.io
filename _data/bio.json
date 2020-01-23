@@ -2,15 +2,15 @@
   "basics": {
     "name": "Christine Uehara",
     "label": "Student",
-    "picture": "https://cyuehara.github.io/images/molly.png",
+    "picture": "https://cyuehara.github.io/images/cyueharaProfilePic.JPG",
     "email": "cyuehara@hawaii.edu",
     "phone": "808-294-4635",
     "website": "https://cyuehara.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -18,22 +18,12 @@
       {
         "network": "github",
         "username": "cyuehara",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/cyuehara"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "cyuehara",
+        "url": "http://linkedin.com/in/cyuehara"
       }
     ]
   },
