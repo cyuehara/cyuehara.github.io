@@ -2,12 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: I Choose You!
+permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-11-12
 labels:
-  - Lisp
+  - GUI 
+  - JGrasp 
+  - Java 
   - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
