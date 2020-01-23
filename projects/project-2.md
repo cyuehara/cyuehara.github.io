@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: Busniess Team for Robotics 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2016
+date: 2016-04-15
 labels:
   - Robotics 
   - STEM
