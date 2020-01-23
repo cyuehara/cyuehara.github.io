@@ -31,8 +31,7 @@
     {
       "name": "Web Design",
       "keywords": [
-        "",
-        ""
+     
       ]
     },
     {
@@ -43,6 +42,7 @@
     {
       "name": "Robotics",
       "keywords": [
+        "VEX & FRC Robotics" 
       ]
     }
   ],
@@ -53,10 +53,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -64,9 +61,11 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "Microsoft Office",
+        "Github",
+        "Adobe Photoshop",
+        "Adobe Illustrator", 
+        "Wordpress",
         "TI LaunchPad"
       ]
     }
@@ -81,12 +80,30 @@
       "gpa": "",
       "courses": [
       ]
+    }, 
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "A.S in Natural Science, Information and Communications Technology.",
+      "startDate": "2018-01-09",
+      "endDate": "2019-12-20",
+      "gpa": "",
+      "courses": [
+        "Introduction to Computer Science I", 
+        "Introduction to Computer Science II", 
+        "Discrete Math I", 
+        "Discrete Math II", 
+        "Program Structure", 
+        "Calculus I", 
+        "Calculus II",
+        "Japanese Language I- IV"
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Student Assistant",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
@@ -97,11 +114,11 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "ICS Peer Mentor, Kapiolani Community College STEM Center",
+      "position": "ICS Tutor",
+      "website": "http://stem.kcc.hawaii.edu/",
+      "startDate": "2019-01-22",
+      "endDate": "2019-12-20",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
