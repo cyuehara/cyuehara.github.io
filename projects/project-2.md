@@ -2,18 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Busniess Team for Robotics 
-permalink: projects/Busniess
-# All dates must be YYYY-MM-DD format!
-date: 2016
-labels:
-  - Robotics
-  - Business Team 
-  - FRC
-  - VEX
-  - STEM
+title: Vacay	title: Busniess Team for Robotics 
+permalink: projects/vacay	permalink: projects/robotics
+# All dates must be YYYY-MM-DD format!	# All dates must be YYYY-MM-DD format!
+date: 2015-12-15	date: 2016
+labels:	labels:
+  - Javascript	  - Robotics
+  - Meteor	  - Business Team 
+  - MongoDB	  - FRC
+  - GitHub	  - VEX
+summary: A responsive web application for travel planning that my team developed in ICS 415.	  - STEM
   - Microsoft Office 
-summary: Lead of the business team for my high school robotics team. 
+
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
