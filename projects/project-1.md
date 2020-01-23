@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/hsflWebsiteNew.png
-title: Micromouse
-permalink: projects/micromouse
+title: Hawaii Space Flight Lab Website 
+permalink: projects/HSFL
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-12-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Wordpress 
+  - Web Design 
+  - Adobe Photoshop 
+  - Adobe Illustrator 
+summary: Currently redesigning the Hawaii Space Flight Lab (HSFL) webpage.
 ---
 
 <div class="ui small rounded images">
