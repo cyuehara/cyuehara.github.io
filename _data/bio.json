@@ -6,7 +6,7 @@
     "email": "cyuehara@hawaii.edu",
     "phone": "808-294-4635",
     "website": "https://cyuehara.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021. I currenly work at Hawaii Space Grant Consortium as a student assistant.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Robotics",
       "keywords": [
       ]
     }
