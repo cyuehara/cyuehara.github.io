@@ -13,7 +13,6 @@ labels:
   - VEX
   - STEM
   - Microsoft Office 
-  
 summary: Lead of the business team for my high school robotics team. 
 ---
 
