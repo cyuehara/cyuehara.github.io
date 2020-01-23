@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HSFLwebsite(old).jpg
+image: images/HSFLwebsite(old).png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
