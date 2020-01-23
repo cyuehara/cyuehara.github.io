@@ -2,17 +2,19 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay	title: Busniess Team for Robotics 
-permalink: projects/vacay	permalink: projects/robotics
-# All dates must be YYYY-MM-DD format!	# All dates must be YYYY-MM-DD format!
-date: 2015-12-15	date: 2016
+title: Busniess Team for Robotics 
+permalink: projects/vacay
+# All dates must be YYYY-MM-DD format!	
+date: 2015-12-15
 labels:	labels:
-  - Javascript	  - Robotics
-  - Meteor	  - Business Team 
-  - MongoDB	  - FRC
-  - GitHub	  - VEX
-summary: A responsive web application for travel planning that my team developed in ICS 415.	  - STEM
+  - Robotics
+  - STEM
+  - Business Team 
+  - FRC
+  - VEX
   - Microsoft Office 
+summary: A responsive web application for travel planning that my team developed in ICS 415.	  
+  
 
 ---
 
