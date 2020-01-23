@@ -2,16 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Busniess Team for Robotics 
+permalink: projects/robotics
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Robotics
+  - Business Team 
+  - FRC
+  - VEX
+  - STEM
+  - Microsoft Office 
+summary: Lead of the business team for my high school robotics team. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
