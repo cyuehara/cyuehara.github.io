@@ -23,8 +23,9 @@ summary: PCHS Business Team Leader
  <div class="ui small rounded images">
   <img class="ui image" src="../images/business.JPG">
   <img class="ui image" src="../images/radio.jpg">
+  <img class="ui image" scr="../images/Judges.JPG">
 </div>
  
- One of the biggest competitons held annually in Hawaii is the First Robotics Competition (FRC). The business team is incharge of putting together brochures about the team and creating a display board with information about the robot. This was useful when teams and judges would walk past the pits and stop to look at what our team is able to do on the field. 
+ One of the biggest competitons held annually in Hawaii is the First Robotics Competition (FRC). The business team is in charge of putting together brochures about the team and creating a display board with information about the robot. This was useful when teams and judges would walk past the pits and stop to look at what our team can do on the field. 
 
- As our program started to grow, we got offered to do many presentations about our team and talk with companies about our futures after college. Senior year I was given the opportunity to talk on Hawaii Public Radio about our robotics team being 2015 State Champions. This was a crazy experience to have my last year on the team and I don't think I would have been given this would have happened if it was not for the business team working hard to promote our program.  
+In my senior year I was given the opportunity to talk on Hawaii Public Radio station about our robotics team winning the 2015 State Championship  This was a crazy experience to have my last year on the team. I don't think I would have been given this opportunity if it was not for the business team working hard to promote our program.  
