@@ -104,8 +104,8 @@
     {
       "company": "Hawaii Space Grant Consortium",
       "position": "Student Assistant",
-      "website": "",
-      "startDate": "2015-08-01",
+      "website": "http://www.spacegrant.hawaii.edu/",
+      "startDate": "2019-07-22",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -119,10 +119,11 @@
       "website": "http://stem.kcc.hawaii.edu/",
       "startDate": "2019-01-22",
       "endDate": "2019-12-20",
-      "summary": "",
+      "summary": "Tutored students taking ICS courses",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Implemented different stategies to help students understand Java programming",
+        "Lead ICS 141 class exam review session",
+        "Helped with STEM Center events on campus"
       ]
     }
   ],
@@ -131,20 +132,21 @@
       "organization": "Pearl City High School Robotics",
       "website": "https://chargerrobotics.weebly.com/",
       "position": "Mentor",
-      "startDate": "2016--01",
+      "startDate": "2016-07-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assist students with various task to prepare for competiton.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assisted students with writing grant letters to companies",
+        "Helped improve students interview skills", 
+        "Support team at all competitons"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Hawaii Robotics Competitions",
+      "website": "http://www.friendsofhawaiirobotics.org/",
+      "position": "Volunteer",
+      "startDate": "2019-08-09",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
