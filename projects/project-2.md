@@ -24,6 +24,7 @@ summary: PCHS Business Team Leader
   <img class="ui image" src="../images/business.JPG">
   <img class="ui image" src="../images/radio.jpg">
   <img class="ui image" scr="../images/Judges.JPG">
+  
 </div>
  
  One of the biggest competitons held annually in Hawaii is the First Robotics Competition (FRC). The business team is in charge of putting together brochures about the team and creating a display board with information about the robot. This was useful when teams and judges would walk past the pits and stop to look at what our team can do on the field. 
