@@ -129,6 +129,20 @@
   ],
   "volunteer": [
     {
+      "organization": "Hawaii Robotics Competitions",
+      "website": "http://www.friendsofhawaiirobotics.org/",
+      "position": "Volunteer",
+      "startDate": "2019-08-09",
+      "endDate": "Present",
+      "summary": "Judge at various competition (K-12)",
+      "highlights": [
+        "Focus on student programming styles",
+        "Talk to teams about their robot designs",
+        "Assist with deliberation for awards"
+  
+      ]
+    },
+    {
       "organization": "Pearl City High School Robotics",
       "website": "https://chargerrobotics.weebly.com/",
       "position": "Mentor",
@@ -139,19 +153,6 @@
         "Assisted students with writing grant letters to companies",
         "Helped improve students interview skills", 
         "Support team at all competitons"
-      ]
-    },
-    {
-      "organization": "Hawaii Robotics Competitions",
-      "website": "http://www.friendsofhawaiirobotics.org/",
-      "position": "Volunteer",
-      "startDate": "2019-08-09",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
