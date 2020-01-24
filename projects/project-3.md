@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/PokeGUI.png
 title: I Choose You!
 permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-12
 labels:
   - GUI 
+  - GitHub
   - JGrasp 
   - Java 
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A Graphical User Interface (GUI) I created for my ICS 211 final Project.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/PokeGui4.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
