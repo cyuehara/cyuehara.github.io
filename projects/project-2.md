@@ -16,7 +16,7 @@ labels:
 summary: PCHS Business Team Leader 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/comp.JPG">
+<img class="ui medium right floated rounded image" src="../images/comp.jpg">
 
  
 
