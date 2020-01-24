@@ -29,9 +29,13 @@
   },
   "interests": [
     {
+     "name": "Software Engineering", 
+      "keywords": [
+        ]
+    },
+    {
       "name": "Web Design",
       "keywords": [
-     
       ]
     },
     {
@@ -53,7 +57,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java", 
+        "Javascript"
       ]
     },
     {
@@ -66,19 +71,21 @@
         "Adobe Photoshop",
         "Adobe Illustrator", 
         "Wordpress",
-        "TI LaunchPad"
+        "FileMaker Pro"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Algorithms", 
+        "Software Engineering"
       ]
     }, 
     {
@@ -107,10 +114,11 @@
       "website": "http://www.spacegrant.hawaii.edu/",
       "startDate": "2019-07-22",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student Assistant at Hawaii Space Grant Consortium",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Register students for K-12 events",
+        "Fellowship/Traineeship paper work", 
+        "Re-designing Hawaii Space Flight Lab's website"
       ]
     },
     {
@@ -158,17 +166,12 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "KCC Student Achievement Award",
+      "date": "2019 Spring",
+      "awarder": "Mathematics and Natural Scienc Department ",
+      "summary": "Kapiolani Community College's Math and Sciences Achievement Awards recognize student achievement, engagement, and learning by providing financial assistance."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+
   ],
   "references": [
     {
