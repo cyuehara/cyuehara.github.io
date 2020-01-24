@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/business.JPG
+image: images/comp.JPG
 title: Business Team for Robotics 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
