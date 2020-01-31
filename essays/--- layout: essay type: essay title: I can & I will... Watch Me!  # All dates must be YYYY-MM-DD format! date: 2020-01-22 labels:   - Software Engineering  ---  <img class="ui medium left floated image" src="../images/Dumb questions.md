@@ -10,7 +10,7 @@ labels:
   - Asking questions 
 ---
 
-## Too scared to ask questions.
+## Common questions!
   The most common question most beginner programmers ask is "why does my code not work?". When I was a tutor for the lower level ICS courses, I dealt with students asking "whats wrong with my code" and they would show me the errors in the command line. Helping the students fix their code took longer than expected since I would have to look through the assignment to understand what the problem is. If the student summarized the assignment before they ask the question, it would be easier to assist them in fixing their error. There are right ways and wrong ways for a question to be phrase but it is a good idea to think about how you ask the question. 
   
 ## Rushed tomatoes? 
@@ -24,4 +24,4 @@ if(someobject != null){
   someobject.doCalc(); 
 } 
 ```
-This avoids a NullPointerException, when it is unknown if the object is null or not." The user's question was concise and did not giving extraneous information to make it confusing to the reader. It was good that they put an example code so the person who is answering their question has an idea of what they are talking about. 
+This avoids a NullPointerException, when it is unknown if the object is null or not." The user's question was concise and did not giving extraneous information to make it confusing to the reader. It was good that they put an example code so the person who is answering their question has an idea of what they are talking about. It is always good to practice formatting questions the "smart way" therefore your question most likely will be answered with a useful and helpful solution. 
