@@ -26,7 +26,8 @@ Wordpress uses a lot of plug-ins to help build the layout of your website. One o
 An example of code used to create a flipbox. 
 ```js
 [cl-flipbox link_type="btn"link=url:http%3A%2F%2Fleonidas-b.hsfl.hawaii.edu%2Fwordpress-
-5.0.1%2Ffacilities%2Fclean-room%2F"back_btn_label="LEARN MORE"back_btn_bgcolor="#d2232a"back_btn_color=#ffffff"font_icon_type="image"
+5.0.1%2Ffacilities%2Fclean-room%2F"back_btn_label="LEARN MORE"back_btn_bgcolor="#d2232a"
+back_btn_color=#ffffff"font_icon_type="image"
 font_icon_image_width="50px"font_title=""font_bgimage="804"back_title="Clean Rooms"back_title_size="20"back_bgcolor="#04249b"back_textcolor="#ffffff"] 
 ```
 
