@@ -14,7 +14,7 @@ labels:
 summary: Currently redesigning the Hawaii Space Flight Lab (HSFL) webpage.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Old2.png">
+<img class="ui image center" src="{{ site.baseurl }}/images/Old2.png">
 As a student assistant at Hawaii Space Grant Consortium, I was given the task to redesign and update the Hawaii Space Flight Lab website. The program I am using to design the website is called Wordpress. This was my first time using Wordpress so I had to do a lot of research prior to starting this project. 
 
 <img class="ui medium left floated rounded image" src="../images/homePage.png">
