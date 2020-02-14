@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img class="ui medium left floated image" src="../images/comic.jpeg">
+<img class="ui large left floated image" src="../images/comic.jpeg">
 
 ## Coding Guidelines 
 A seasoned programmer knows how important it is to have their code meet the given coding standard. Coding standards are important when you begin to work in a group and every person has their own style of programming. The coding standard can maintain a consitant flow in the code for everyone to understand. Some examples of coding standards given by geeksforgeeks goes as follows, limited use of globals, standard headers for different modules, naming conventions for local variables, well documented, etc. Using coding standards can improve the development time and decrease the amount of bugs in the code. Beginner programmers first learn about the importance of comments in code, then it develops into other areas of coding styles. 
