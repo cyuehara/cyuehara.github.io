@@ -13,6 +13,6 @@ labels:
 ---
 
 
-<img class="ui large left floated image" src="../images/html.jpg">
+<img class="ui medium center floated image" src="../images/html.jpg">
 
 ## What difference does it make? 
