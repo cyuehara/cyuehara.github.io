@@ -14,7 +14,11 @@ The problem: Students, faculty, and staff at the University of Hawaii at Manoa a
 The solution: Students, faculty, and staff 
 
 ## The Approach 
-Instead of placing people in the free agent category, there should be a way for the player to show their skills and what sports they are interested in playing. 
-*
+Instead of placing people in the free agent category, there should be a way for the player to give a bit of information that lists:  
+* Brief self introduction 
+* Sports experience  
+* Position they'd like to play 
+* Avaliability 
+* Contact information for followup
 
 Team who are looking to fill up their rosters would be able to look at the profiles and choose the players that would best compliment the team. 
