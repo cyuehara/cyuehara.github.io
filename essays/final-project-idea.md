@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Project: Special Agents 
-## Created by: Christine Uehara and Lucy Rock 
+### Created by: Christine Uehara and Lucy Rock 
 ## Overview 
 **The problem**: Currently UH Manoa has Intramural sport competitions, for games like soccer and volleyball, that students, faculty and staff can participate in. UH Manoa is currently using IMleagues.com for the sporting events and students are able to find people interested in joining teams. The problem with using this website is that it does not require a person to put in their history with the sport. For instance, if a person has played years of volleyball in high-school or as an extracurricular activity, then a team captain might want to recruit them over someone who has never played before. IMleauges places people wanting to join a team into a section called “Free Agents,” and only lists the names of these people. While a person can add additional information, it does not require them to put anything down. This leaves a team with no information to properly recruit more team members for what they need. In the end, teams end up not relying on this website to recruit. They try to get people to join by word of mouth, or recruiting people they know personally.  
 
