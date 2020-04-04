@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Chrisine's Declassified Quarantine College Survival Guide "
-date: 2020-04-3
+date: 2020-04-03
 labels:
   - Online College
   - Covid-19
