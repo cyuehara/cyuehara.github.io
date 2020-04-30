@@ -11,3 +11,4 @@ labels:
 
 <img class="ui large left floated image" src="../images/DesignPattern2.jpg">
 
+As adults, we implement a strategic pattern into our everyday life to help us get through our day. 
