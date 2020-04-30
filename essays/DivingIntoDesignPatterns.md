@@ -9,3 +9,5 @@ labels:
   - Design Patterns 
 ---
 
+img class="ui medium left floated image" src="../images/DesignPattern2.jpg">
+
