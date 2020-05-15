@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PokeGUI.png
+image: images/ManoaFFLanding.png
 title: Manoa Fitness Finder
 permalink: projects/ManoaFitnessFinder
 # All dates must be YYYY-MM-DD format!
