@@ -15,8 +15,6 @@ labels:
   - CSS 
 summary: Creating a website for UH Manoa students to connect and create fitness events to lose the "freshman fifteen" 
 ---
-
- <img class="ui image" src="../images/ManoaFFLogo.png">
  
  ## Freshman Fifteen 
 
