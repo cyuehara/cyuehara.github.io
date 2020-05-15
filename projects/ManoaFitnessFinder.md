@@ -14,4 +14,4 @@ labels:
 summary: A Graphical User Interface (GUI) I created for my ICS 211 final Project.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ManoaFFLogo.png">
+<img class="ui image" src="../images/ManoaFFLogo.png">
