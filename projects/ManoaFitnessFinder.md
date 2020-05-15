@@ -7,11 +7,13 @@ permalink: projects/ManoaFitnessFinder
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-12
 labels:
-  - GUI 
-  - GitHub
-  - JGrasp 
-  - Java 
-summary: A Graphical User Interface (GUI) I created for my ICS 211 final Project.
+  - Software Engineering 
+  - IntelliJ IDEA
+  - Web Design
+  - Semantic UI
+  - React 
+  - CSS 
+summary: Creating a website for UH Manoa students to connect and create fitness events to lose the "freshman fifteen" 
 ---
 
 <img class="ui image" src="../images/ManoaFFLogo.png">
