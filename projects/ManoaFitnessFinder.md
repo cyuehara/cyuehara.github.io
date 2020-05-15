@@ -16,10 +16,10 @@ labels:
 summary: Creating a website for UH Manoa students to connect and create fitness events to lose the "freshman fifteen" 
 ---
 
-<img class="ui image" src="../images/ManoaFFLogo.png">
+
 
  ## Freshman Fifteen 
- 
+ <img class="ui image" src="../images/ManoaFFLogo.png">
  The term "Freshman 15" is an expression commonly used in the college community that refers to an amount of weight gained during a student's first year at college. Students who are affected by the freshman 15 feel insecure to go to the gym alone and thus gain more weight throughout college. 
  
  ## My Role
