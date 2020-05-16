@@ -10,7 +10,7 @@ labels:
 ---
 
 <img class="ui medium left floated rounded image" src="../images/SoftwareEngineering.jpg">
-At the beginning of the semester, I was very nervous to be taking a Software Engineering class. I had no idea what I was walking into since I have heard mixed reviews of the class. The one thing I was excited about doing in this class was devleoping a website. I have learned a lot in this class that I will use in the future and I hope that I am able to pass it on to younger students that I will work with. 
+At the beginning of the semester, I was very nervous to be taking a Software Engineering class. I had no idea what I was walking into since I've heard mixed reviews of the class. The one thing I was excited about doing in this class was developing a website. Since my newest project for my job is to re-design a website, I knew that I would be able to use what I learned in this class for my work. I've learned so much over the semester but the two topics that stood out to me the most were:
 
 <img class="ui tiny left circular floated image" src="../images/AgileDevelopment.jpg">
 
