@@ -8,3 +8,5 @@ labels:
   - Coding Standards 
   - Project Management
 ---
+
+<img class="ui medium left floated rounded image" src="../images/SoftwareEngineering.jpg">
