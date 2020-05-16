@@ -12,7 +12,7 @@ labels:
 <img class="ui medium left floated rounded image" src="../images/SoftwareEngineering.jpg">
 
 ## Agile Project Management
-<img class="ui tiny left cicular floated image" src="../images/AgileDevelopment.jpg">
+<img class="ui tiny left circular floated image" src="../images/AgileDevelopment.jpg">
 
 ## Coding Standards
-<img class="ui tiny left cicular floated image" src="../images/CodeSttandard.jpg">
+<img class="ui tiny left circular floated image" src="../images/CodeSttandard.jpg">
