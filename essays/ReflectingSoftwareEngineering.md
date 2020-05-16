@@ -10,7 +10,7 @@ labels:
 ---
 
 <img class="ui medium left floated rounded image" src="../images/SoftwareEngineering.jpg">
-
+f
 ## Agile Project Management
 <img class="ui tiny left circular floated image" src="../images/AgileDevelopment.jpg">
 
