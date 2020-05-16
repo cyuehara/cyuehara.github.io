@@ -23,6 +23,8 @@ summary: Creating a website for UH Manoa students to connect and create fitness 
  
  <h2> My Role on the Team </h2>
  
+ <img class="ui rounded image" src="../images/ManoaFFPages.JPG">
+ 
  My role on the team was one of three web designers for the various pages we were going to have on our site. After our first meeting, we decided which page mockups we wanted to design and have it ready for our second meeting. I was in charge of designing the landing page, about us, and the user landing page. We decided that we wanted the navigation bar at the top to be different from a non-user and a user. I designed the landing page to give a new user to the site the most information they needed to be interested in making an account. The about page gave highlights about the site and a little more information out of our site. The user landing page was designed for the user to click a button to all the functionality to the site. Also, it would display the user's upcoming events they created. To create these mockup pages, I used an app called Procreate to add images and design it as closely as to how we wanted those pages to look like. I've learned that working in a group with different design styles can be tough at first but there is always a happy medium in the end.
 
 <h2> Future in Web Design? </h2> 
