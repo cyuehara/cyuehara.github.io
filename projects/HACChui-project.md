@@ -15,3 +15,4 @@ labels:
   - Project Management 
 summary: Creating a website to provide a user friendly application to simplify and improve the team formation process during the Hawaii Annual Code Challenge
 ---
+ <img class="ui rounded image centered" src="../images/HACCHomePage.png">
