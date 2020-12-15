@@ -5,7 +5,7 @@ image: images/HACCHui.png
 title: HACC-Hui
 permalink: projects/HACChui-project
 # All dates must be YYYY-MM-DD format!
-date: 2020-15-12
+date: 2020-12-15
 labels:
   - Software Engineering 
   - MongoDB
