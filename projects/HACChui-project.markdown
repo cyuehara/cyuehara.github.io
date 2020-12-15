@@ -43,4 +43,9 @@ HACC Hui has three different types of users. The first would be the "installers"
 | [US-D7: See best fit teams](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to see which team is the best fit for me. |
 | [US-D8: Indicate desire to join](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to indicate I'm interested in joining a team. |
 
-
+<h3> Milestone 3- "The Final Sprint" </h3>
+| User Stories | Description |
+| ----- | ----------------------------------------------------------- |
+| Update Edit Team Page |  Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
+| Update Create team Page | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
+| Implement a List Participant Page  | Create a page to list all the participants and list their information. Also update UI of profile card |
