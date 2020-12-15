@@ -30,9 +30,9 @@ HACC Hui has three different types of users. The first would be the "installers"
 | User Stories | Description |
 | ----- | ----------------------------------------------------------- |
 | [US-A2: Confiugure HACC](https://hacc-hui.github.io/docs/requirements/administrators#hacc-hui-configuration) |  As an administrator, I want to login to HACC Hui and configure the application.  |
-| US-D2: Login & Profile  | As a participant, I want to login to HACC Hui and develop my profile, <br /> so I can be matched with the best open team.  |
-| US-D4: Create Team  | As a participant, I want to create a team, so we can solve a challenge and win the HACC. |
-| US-D13: Delete HACC Hui account  | As a participant, I want to be able to delete my HACC Hui account at any time. |
+| [US-D2: Login & Profile](https://hacc-hui.github.io/docs/requirements/participants/#participant-profile-configuration)  | As a participant, I want to login to HACC Hui and develop my profile, so I can be matched with the best open team.  |
+| [US-D4: Create Team](https://hacc-hui.github.io/docs/requirements/participants/#team-creation)  | As a participant, I want to create a team, so we can solve a challenge and win the HACC. |
+| [US-D13: Delete HACC Hui account](https://hacc-hui.github.io/docs/requirements/participants/#delete-account)  | As a participant, I want to be able to delete my HACC Hui account at any time. |
 
 
 
