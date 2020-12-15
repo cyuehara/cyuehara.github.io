@@ -34,6 +34,9 @@ HACC Hui has three different types of users. The first would be the "installers"
 | [US-D4: Create Team](https://hacc-hui.github.io/docs/requirements/participants/#team-creation)  | As a participant, I want to create a team, so we can solve a challenge and win the HACC. |
 | [US-D13: Delete HACC Hui account](https://hacc-hui.github.io/docs/requirements/participants/#delete-account)  | As a participant, I want to be able to delete my HACC Hui account at any time. |
 
+For milestone 1, I created the login page and create team page. I used the skills I learned from ICS 314 to layout the login page. I kept it simple and added the HACC logo on the side next to the log in box. Before building the create team form, I made a mock up page of what I wanted the form to look like. Then I took a look at the requirements for the create team page. The important requirememnt for this form was that the team name, github repo, and devpost page had to be the same name and the about us had a character count of 200 characters. Creating the UI for this page was easy for me to do since I had more experience with designing/building pages from my ICS 314 project last semester. I struggled with getting the team to be saved correctly in the team collection. After talking with my teammates, they was able to help me see if the team was saved correctly with using the Meteor Mongo commands. 
+
+
 <h3> Milestone 2 </h3>
 
 | User Stories | Description |
