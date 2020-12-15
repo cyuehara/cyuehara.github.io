@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/HACCHui.png
 title: HACC-Hui
-permalink: projects/HACChui
+permalink: projects/HACChui-project
 # All dates must be YYYY-MM-DD format!
 date: 2020-15-12
 labels:
