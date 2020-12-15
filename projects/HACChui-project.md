@@ -27,11 +27,8 @@ HACC Hui has three different types of users. The first would be the "installers"
 
 <h3> Milestone 1 </h3>
 
-| First Header  | Second Header |
+| User Stories | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), 
