@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/ManoaFFLanding2.png
-title: Manoa Fitness Finder
-permalink: projects/ManoaFitnessFinder
+image: images/HACCHui.png
+title: HACC-Hui
+permalink: projects/HACChui-project
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-12
+date: 2020-15-12
 labels:
   - Software Engineering 
   - MongoDB
