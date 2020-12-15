@@ -47,6 +47,6 @@ HACC Hui has three different types of users. The first would be the "installers"
 
 | User Stories | Description |
 | ----- | ----------------------------------------------------------- |
-| Update Edit Team Page |  Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
-| Update Create team Page | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
-| Implement a List Participant Page  | Create a page to list all the participants and list their information. Also update UI of profile card |
+| [Update Edit Team Page](https://github.com/HACC-Hui/HACC-Hui/issues/84) |  Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
+| [Update Create team Page](https://github.com/HACC-Hui/HACC-Hui/issues/38) | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
+| [Implement a List Participant Page](https://github.com/HACC-Hui/HACC-Hui/issues/37)  | Create a page to list all the participants and list their information. Also update UI of profile card |
