@@ -30,3 +30,4 @@ HACC Hui has three different types of users. The first would be the "installers"
 - [x] US-D2: Login & Profile 
 - [x] US-D4: Create Team 
 - [ ] US-D13: Delete HACC Hui account
+- [x] Finish my changes
