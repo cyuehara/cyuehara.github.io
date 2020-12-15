@@ -28,7 +28,7 @@ HACC Hui has three different types of users. The first would be the "installers"
 <h3> Milestone 1 </h3>
 
 | User Stories | Description |
-| ------------------------ | ------------- |
+| ----- | ---- |
 | US-A2: Confiugure HACC |  As an administrator, I want to login to <br /> HACC Hui and configure the application.  |
 | US-D2: Login & Profile  | As a participant, I want to login to HACC Hui and develop my profile, <br /> so I can be matched with the best open team.  |
 
