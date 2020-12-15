@@ -26,7 +26,7 @@ At the beginning of the semester our class was randomly split into teams of four
 HACC Hui has three different types of users. The first would be the "installers" who are the software developers, "Administrators" who are the members of the program committee, and lastly "Participants" who are the HACC participants. We were provided with [User Stories](https://hacc-hui.github.io/docs/requirements/installers) that gave us an explanation of what needed to be featured on the website. Each milestone included a specific user story that we would have to implement. After completing each milestone, each group would present their solutions to the class and our professor would pick the best and implement it in the "final" repository that the whole class would use in the end.  
 
 <h3> Milestone 1 </3>
--[] US-A2: Configure HACC
--[x] US-D2: Login & Profile 
--[x] US-D4: Create Team 
--[] US-D13: Delete HACC Hui account
+- [] US-A2: Configure HACC
+- [x] US-D2: Login & Profile 
+- [x] US-D4: Create Team 
+- [] US-D13: Delete HACC Hui account
