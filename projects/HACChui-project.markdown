@@ -34,5 +34,13 @@ HACC Hui has three different types of users. The first would be the "installers"
 | [US-D4: Create Team](https://hacc-hui.github.io/docs/requirements/participants/#team-creation)  | As a participant, I want to create a team, so we can solve a challenge and win the HACC. |
 | [US-D13: Delete HACC Hui account](https://hacc-hui.github.io/docs/requirements/participants/#delete-account)  | As a participant, I want to be able to delete my HACC Hui account at any time. |
 
+<h3> Milestone 2 </h3>
+
+| User Stories | Description |
+| ----- | ----------------------------------------------------------- |
+| [US-D5: Update team](https://hacc-hui.github.io/docs/requirements/participants/#team-creation) |  As a team owner, I want to update the team to reflect the current status. |
+| [US-D6: Delete team](https://hacc-hui.github.io/docs/requirements/participants#team-creation)  | As a team owner, I want to delete the team. |
+| [US-D7: See best fit teams](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to see which team is the best fit for me. |
+| [US-D8: Indicate desire to join](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to indicate I'm interested in joining a team. |
 
 
