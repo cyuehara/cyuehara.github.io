@@ -41,6 +41,7 @@ For milestone 1, I created the login page and create team page. I used the skill
 
 
 <h3> Milestone 2 </h3>
+[Milestone 2 Project Board](https://github.com/LevelUpTeamA/HACC-Hui1/projects/2)
 
 | User Stories | Description |
 | ----- | ----------------------------------------------------------- |
@@ -50,6 +51,7 @@ For milestone 1, I created the login page and create team page. I used the skill
 | [US-D8: Indicate desire to join](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to indicate I'm interested in joining a team. |
 
 <h3> Milestone 3- "The Final Sprint" </h3>
+[Milestone 3 Project Board](https://github.com/HACC-Hui/HACC-Hui/projects/1)
 
 | User Stories | Description |
 | ----- | ----------------------------------------------------------- |
