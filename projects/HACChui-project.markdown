@@ -60,6 +60,7 @@ For milestone 2, I worked on the update team page. The team profile card was cre
 | [Update Create team Page](https://github.com/HACC-Hui/HACC-Hui/issues/38) | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
 | [Implement a List Participant Page](https://github.com/HACC-Hui/HACC-Hui/issues/37)  | Create a page to list all the participants and list their information. Also update UI of profile card |
 
+For milestone 3, we switched the format of the class to work on one main repository and choose the issues we wanted to work on individually or with a partner. The three issues listed above was the ones I worked on for this milestone. The first two were fairly simple. There was a requirement that the team name, github repo, and devpost page all had to use the same name so I had to add labels to the forms to tell the participants of this requirement. The last issue I worked with Matthew Kim to implement a page that list all the participants and their profile.  
 <img class="ui medium left floated rounded image" src="../images/ListParticipant.png">
 
 <img class="ui medium left floated rounded image" src="../images/Profile.png">
