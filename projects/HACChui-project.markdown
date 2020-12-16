@@ -60,6 +60,7 @@ For milestone 2, I worked on the update team page. The team profile card was cre
 | [Update Create team Page](https://github.com/HACC-Hui/HACC-Hui/issues/38) | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
 | [Implement a List Participant Page](https://github.com/HACC-Hui/HACC-Hui/issues/37)  | Create a page to list all the participants and list their information. Also update UI of profile card |
 
+<img class="ui medium left floated rounded image" src="../images/ListParticipant.png">
 
 
 
