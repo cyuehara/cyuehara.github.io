@@ -39,7 +39,6 @@ HACC Hui has three different types of users. The first would be the "installers"
 For milestone 1, I created the login page and create team page. I used the skills I learned from ICS 314 to layout the login page. I kept it simple and added the HACC logo on the side next to the log in box. Before building the create team form, I made a mock up page of what I wanted the form to look like. Then I took a look at the requirements for the create team page. The important requirememnt for this form was that the team name, github repo, and devpost page had to be the same name and the about us had a character count of 200 characters. Creating the UI for this page was easy for me to do since I had more experience with designing/building pages from my ICS 314 project last semester. I struggled with getting the team to be saved correctly in the team collection. After talking with my teammates, they was able to help me see if the team was saved correctly with using the Meteor Mongo commands. 
 
 
-
 <h3> Milestone 2 </h3>
 [Milestone 2 Project Board](https://github.com/LevelUpTeamA/HACC-Hui1/projects/2)
 
@@ -50,6 +49,8 @@ For milestone 1, I created the login page and create team page. I used the skill
 | [US-D7: See best fit teams](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to see which team is the best fit for me. |
 | [US-D8: Indicate desire to join](https://hacc-hui.github.io/docs/requirements/participants#team-matching-participant-initiated)  | As a participant, I want to indicate I'm interested in joining a team. |
 
+For milestone 2, I worked on the update team page. The team profile card was created by another team in milestone 1 so all I had to do was link the edit team form to the edit button on the page. I used the same layout as create team for the edit team form and had the information filled out. The user would only be able to change the challenge, skills, tools, and availaility. The team name cannot be changed. It was difficult for me to update the things changed in the team collection since I was still learning about how to use MongoDb collection. I was unable to get the update team to corretly update the teams information, however I still was able to get the form to link to the edit team button. 
+
 <h3> Milestone 3- "The Final Sprint" </h3>
 [Milestone 3 Project Board](https://github.com/HACC-Hui/HACC-Hui/projects/1)
 
@@ -58,3 +59,14 @@ For milestone 1, I created the login page and create team page. I used the skill
 | [Update Edit Team Page](https://github.com/HACC-Hui/HACC-Hui/issues/84) |  Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
 | [Update Create team Page](https://github.com/HACC-Hui/HACC-Hui/issues/38) | Add labels to the form: requirement that the team name, github repo, and devpost page all use the same name. |
 | [Implement a List Participant Page](https://github.com/HACC-Hui/HACC-Hui/issues/37)  | Create a page to list all the participants and list their information. Also update UI of profile card |
+
+
+
+
+
+
+
+
+
+
+
