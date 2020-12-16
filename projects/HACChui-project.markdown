@@ -62,6 +62,7 @@ For milestone 2, I worked on the update team page. The team profile card was cre
 
 <img class="ui medium left floated rounded image" src="../images/ListParticipant.png">
 
+<img class="ui medium left floated rounded image" src="../images/Profile.png">
 
 
 
